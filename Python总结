@@ -1,0 +1,21 @@
+Python:
+关于列表和元组最大的区别是列表可以修改而元组是不可以修改的
+列表:list = ['hello','hi','5','6','7']中的
+     索引:
+     类似与数组但是又不同于数组
+     正序可取0，1，2，～list的长度-1
+     倒序可取-1,-2,-3 ~list的长度加负号
+     分片:list[x:y]
+     如果x>0,y>0
+    appType = 0;
+    channelID = itunes;
+    device = 0;
+    deviceID = "";
+    deviceVersion = "10.3.1";
+    isVip = 0;
+    isYn = 0;
+    language = ch;
+    uid = "";
+    uniqueID = "31E114FA-F8DE-4628-B30A-1632EE9F9097";
+    userLevel = 0;
+    version = "4.0.7";

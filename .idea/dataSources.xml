@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="test" uuid="6803a1f4-d5d7-406c-b4e5-732995a3fa14">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="littleData" uuid="9aea6aee-4a29-41c7-8efa-54b8c2b1fe58">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/littleData</jdbc-url>
+    </data-source>
+  </component>
+</project>

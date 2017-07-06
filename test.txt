@@ -1,0 +1,11 @@
+Django：
+https://cnbin.github.io/blog/2015/05/29/mac-da-jian-djangokai-fa-huan-jing/
+1,下载git clone https://github.com/django/django.git
+2,cd Django
+  sudo python setup.py. install
+3,sudo mkdir ~/Djangodemo
+  /*创建一个用于测试Localhost的网站样例*/
+  sudo django-admin.py startproject testLocalHost
+  cd testLocalHost
+  python manage.py runserve
+4,打开浏览器 http://localhost:8000
